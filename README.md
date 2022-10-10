@@ -1,2 +1,2 @@
 # conti
-training- o github
+training on github
